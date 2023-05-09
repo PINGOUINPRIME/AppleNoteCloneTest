@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AppleNoteCloneTest/static/css/main.c45b5282.css",
+    "main.js": "/AppleNoteCloneTest/static/js/main.be4418d3.js",
+    "index.html": "/AppleNoteCloneTest/index.html",
+    "main.c45b5282.css.map": "/AppleNoteCloneTest/static/css/main.c45b5282.css.map",
+    "main.be4418d3.js.map": "/AppleNoteCloneTest/static/js/main.be4418d3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c45b5282.css",
+    "static/js/main.be4418d3.js"
+  ]
+}
